@@ -5,6 +5,7 @@
 <h3>Tested on FreeBSD</h3>
 <h5>Config in ./src/config.rs</h5>
 <h5>Building:</h5>
+
 ```sh
 cd FehRandomWallpaper
 cargo build
